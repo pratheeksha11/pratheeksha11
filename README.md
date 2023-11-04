@@ -68,6 +68,8 @@ I'm a Computer Science graduate from the University of Massachusetts with a prof
   
 
 *[Check out more of my projects on GitHub!](https://github.com/pratheeksha11/Machine-Learning-with-Python)*
+*[Check out - Data Wisdom: My Learning Journey of Data & Technology](https://github.com/pratheeksha11/DataWisdom)*
+
 
 ---
 
