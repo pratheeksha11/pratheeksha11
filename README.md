@@ -28,7 +28,7 @@ I'm a Computer Science graduate from the University of Massachusetts with a prof
 
 ## 🛠 Skills & Technologies
 
-`SQL` `Python` `Data Science` `Machine Learning` `Java` `R` `OOP` `MySQL` `HTML` `SAP` `SAP BO Data Services` `SAP HANA` `ETL` `Data Migration` `Data Warehousing` `Tableau` `Looker` `Power BI` `NumPy` `Pandas` `TensorFlow` `Keras` `Scikit-learn` `NLP` `Jupyter Notebook` `Git` `Google Colab` `Agile WoW` `SOX Security` `Hadoop` `Big data` `Apache Spark` `MS Office` `Excel`
+`SQL` `Python` `Data Science` `Machine Learning` `Java` `R` `OOP` `MySQL` `HTML` `SAP` `SAP BO Data Services` `SAP HANA` `ETL` `Data Migration` `Data Warehousing` `Tableau` `Looker` `Power BI` `NumPy` `Pandas` `TensorFlow` `PyTorch` `Keras` `Scikit-learn` `NLP` `Jupyter Notebook` `Git` `Google Colab` `Agile WoW` `Jira` `Kanban` `SOX Security` `Hadoop` `Big data` `Apache Spark` `MS Office` `Excel`
 
 ---
 
