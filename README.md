@@ -12,7 +12,7 @@
 
 ## 💼 Professional Summary
 
-I'm a Computer Science graduate from the University of Massachusetts with a profound background in **Machine Learning** and **Data Science**. Over the course of 4+ years, I've worn multiple hats - Data Engineer, Data Integration Specialist, and Data Analyst. I am currently working as a Data Science Intern at the **University of Massachusetts President's Office**. My expertise spans across Python, SQL, Machine Learning, ETL tools, and much more. I take pride in delivering data solutions that drive decision-making and offer insights.
+I'm a Computer Science graduate from the University of Massachusetts with a profound background in **Machine Learning** and **Data Science**. Over the course of 5 years, I've worn multiple hats - Data Engineer, Data Integration Specialist, and Data Analyst. I am currently working as a Data Science Intern at the **University of Massachusetts President's Office**. My expertise spans across Python, SQL, Machine Learning, ETL tools, and much more. I take pride in delivering data solutions that drive decision-making and offer insights.
 
 ---
 
