@@ -26,9 +26,60 @@ I'm a Computer Science graduate from the University of Massachusetts with a prof
 
 ---
 
-## 🛠 Skills & Technologies
+## Skills & Technologies
 
-`SQL` `Python` `Data Science` `Machine Learning` `Java` `R` `OOP` `MySQL` `HTML` `SAP` `SAP BO Data Services` `SAP HANA` `ETL` `Data Migration` `Data Warehousing` `Tableau` `Looker` `Power BI` `NumPy` `Pandas` `TensorFlow` `PyTorch` `Keras` `Scikit-learn` `NLP` `Jupyter Notebook` `Git` `Google Colab` `Agile WoW` `Jira` `Kanban` `SOX Security` `Hadoop` `Big data` `Apache Spark` `MS Office` `Excel`
+### Data Science & Machine Learning
+- **Languages**: Python, R, Java, SQL, MySQL
+- **Data Analysis & Visualization Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Plotly, Dash,
+- **Machine Learning Libraries & Frameworks**: Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM, NLP, NLTK, spaCy
+- **Tools**: Jupyter Notebook, Google Colab, Apache Spark, Git, GitHub
+
+### Data Analytics
+- **Languages**: SQL, Python, R
+- **Data Visualization Tools**: Tableau, Looker, Power BI
+- **Database Management**: MySQL, SAP HANA
+- **Libraries & Frameworks**: NumPy, Pandas
+
+### Data Warehousing
+- **Technologies**: ETL, Data Migration, SAP BO Data Services, SAP HANA, Hadoop
+- **Database Management**: MySQL, SAP HANA
+- **Big Data Technologies**: Hadoop, Apache Spark
+
+### Data Integration
+- **ETL Tools**: SAP BO Data Services, SAP Information Steward
+- **Database Systems**: MySQL, SAP HANA
+- **Big Data Technologies**: Hadoop, Apache Spark
+
+### Data Engineering
+- **Big Data Technologies**: Hadoop, Apache Spark
+- **Database Management**: MySQL, SAP HANA
+- **Data Warehousing Tools**: SAP BO Data Services, SAP HANA
+- **Languages**: Python, Java, SQL
+
+### Software Development
+- **Languages**: Python, Java, HTML
+- **Version Control**: Git
+- **Project Management**: Agile WoW, Jira, Kanban
+
+### Database Management
+- **Languages**: SQL
+- **Database Systems**: MySQL, SAP HANA, MongoDB
+- **Data Warehousing Tools**: SAP BO Data Services, SAP HANA
+
+### Business Intelligence Tools
+- **Data Visualization Tools**: Tableau, Looker, Power BI
+- **ETL Tools**: SAP BO Data Services
+- **Database Systems**: SAP HANA
+
+### Big Data Technologies
+- **Platforms**: Hadoop, Apache Spark
+- **Languages**: Python, Java
+
+### Project Management & Collaboration
+- **Methodologies**: Agile WoW, Jira, Kanban, Trello, Microsoft Teams, Slack
+- **Compliance & Security**: SOX Security
+- **General-Purpose Tools**: MS Office, Excel
+
 
 ---
 
