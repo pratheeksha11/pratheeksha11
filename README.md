@@ -118,7 +118,7 @@ I'm a Computer Science graduate from the University of Massachusetts with a prof
   This is an innovative project that seamlessly integrates the robust capabilities of the Microsoft Translator API into a user-friendly Telegram bot. This bot is designed to provide real-time language translations directly within the popular messaging platform, Telegram. Users can effortlessly send text messages in their native tongue, and the bot instantly responds with accurate translations in the desired target language. 
   
 
-- *[Check out more of my projects on GitHub!](https://github.com/pratheeksha11/Machine-Learning-with-Python)*
+- *[Check out more of my projects on GitHub!](https://github.com/pratheeksha11?tab=repositories)*
 - *[Check out - Data Wisdom: My Learning Journey of Data & Technology](https://github.com/pratheeksha11/DataWisdom)*
 
 
