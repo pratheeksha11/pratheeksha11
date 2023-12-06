@@ -5,8 +5,6 @@
 
 ---
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Pratheeksha%20Nath%20Narikkadan&fontSize=40&animation=fadeIn)
-
----
 - *[Check out more of my projects on GitHub!](https://github.com/pratheeksha11?tab=repositories)*
 - *[Check out my learning blog here - Data Wisdom: My Learning Journey of Data & Technology](https://github.com/pratheeksha11/DataWisdom)*
 - *[Check out the certificates I've earned from courses and trainings](https://github.com/pratheeksha11/myCertifications/tree/main)*
