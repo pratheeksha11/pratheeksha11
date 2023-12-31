@@ -2,7 +2,7 @@
 
 📍 **MA, USA** | 📧 **[pratheeksha.nath@gmail.com](mailto:pratheeksha.nath@gmail.com)** | 📞 **857-972-3001** | 🔗 **[LinkedIn](https://www.linkedin.com/in/pratheeksha-nath/)** | 🔗 **[GitHub](https://github.com/pratheeksha11)** | 🔗 **[Tableau Public](https://public.tableau.com/app/profile/pratheeksha.nath)** 
 
-
+![ViewCount](https://views.whatilearened.today/views/github/pratheeksha11/pratheeksha11.svg?cache=remove)
 ---
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Pratheeksha%20Nath%20Narikkadan&fontSize=40&animation=fadeIn)
 - *[Check out more of my projects on GitHub!](https://github.com/pratheeksha11?tab=repositories)*
