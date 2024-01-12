@@ -5,6 +5,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/pratheeksha11/pratheeksha11.svg?cache=remove)
 ---
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Pratheeksha%20Nath%20Narikkadan&fontSize=40&animation=fadeIn)
+
 - *[Check out more of my projects on GitHub!](https://github.com/pratheeksha11?tab=repositories)*
 - *[Check out my learning blog here - Data Wisdom: My Learning Journey of Data & Technology](https://github.com/pratheeksha11/DataWisdom)*
 - *[Check out the certificates I've earned from courses and trainings](https://github.com/pratheeksha11/myCertifications/tree/main)*
@@ -12,13 +13,13 @@
 
 ## 💼 Professional Summary
 
-I am a seasoned data professional. Over the course of 5 years, I've worn multiple hats - Data Engineer, Data Integration Specialist, and Data Analyst, with a profound background in **Machine Learning** and **Data Science**. My expertise spans across Python, SQL, Machine Learning, ETL tools, Tableau, SAP HANA, BI tools and much more. I take pride in delivering data solutions that drive decision-making and offer insights.
+I am a seasoned data professional. Over the course of 5 years, I've worn multiple hats - Data Scientist, Data Engineer, Data Integration Specialist, and Data Analyst, with a profound background in **Machine Learning** and **Data Science**. My expertise spans across Python, SQL, Machine Learning, ETL tools, Tableau, SAP HANA, BI tools and much more. I take pride in delivering data solutions that drive decision-making and offer insights.
 
 ---
 
 ## 🔍 Key Expertise
 
-- **Data Science**: Expertise in Exploratory Data Analysis, Feature Engineering, and Statistical Modeling.
+- **Data Science**: Expertise in Exploratory Data Analysis, Feature Engineering, A/B testing, Predictive Analytics, and Statistical Modeling.
 - **Machine Learning**: Proficient in frameworks such as TensorFlow, Keras, and Scikit-learn, with hands-on experience in model selection, optimization, and deployment.
 - **Natural Language Processing**: Successfully implemented sentiment analysis and multi-label text classification projects.
 - **Data Engineering**: Strong background in ETL processes, Data Migration, and Database Warehousing using tools like SAP BO Data Services and SAP HANA.
@@ -26,77 +27,104 @@ I am a seasoned data professional. Over the course of 5 years, I've worn multipl
 
 ---
 
-## Skills & Technologies
+## 🛠 Skills
 
-### Data Science & Machine Learning
-- **Languages**: Python, R, Java, SQL, MySQL
-- **Data Analysis & Visualization Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Plotly, Dash,
-- **Machine Learning Libraries & Frameworks**: Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM, NLP, NLTK, spaCy
-- **Tools**: Jupyter Notebook, Google Colab, Apache Spark, Git, GitHub
+### Data Scientist
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-FFD43B?style=flat&logo=Python&logoColor=black)
+![Seaborn](https://img.shields.io/badge/-Seaborn-lightgrey)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-29A8AB?style=flat)
+![LightGBM](https://img.shields.io/badge/-LightGBM-green)
+![NLTK](https://img.shields.io/badge/-NLTK-065535?style=flat)
+![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat&logo=spaCy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=Google-Colab&logoColor=white)
 
-### Data Analytics
-- **Languages**: SQL, Python, R
-- **Data Visualization Tools**: Tableau, Looker, Power BI
-- **Database Management**: MySQL, SAP HANA
-- **Libraries & Frameworks**: NumPy, Pandas
 
-### Data Warehousing
-- **Technologies**: ETL, Data Migration, SAP BO Data Services, SAP HANA, Hadoop
-- **Database Management**: MySQL, SAP HANA
-- **Big Data Technologies**: Hadoop, Apache Spark
+### Data Analyst
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/-Looker-FF6B6B?style=flat)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![SAP HANA](https://img.shields.io/badge/-SAPHANA-0F4C81?style=flat&logo=SAP&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-ApacheSpark-E25A1C?style=flat&logo=Apache-Spark&logoColor=white)
 
-### Data Integration
-- **ETL Tools**: SAP BO Data Services, SAP Information Steward
-- **Database Systems**: MySQL, SAP HANA
-- **Big Data Technologies**: Hadoop, Apache Spark
+### Data Engineer
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=Apache-Hadoop&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-ApacheSpark-E25A1C?style=flat&logo=Apache-Spark&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![SAP HANA](https://img.shields.io/badge/-SAPHANA-0F4C81?style=flat&logo=SAP&logoColor=white)
+![SAP BO Data Services](https://img.shields.io/badge/-SAP%20BO%20Data%20Services-0F4C81?style=flat&logo=SAP&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL&logoColor=white)
 
-### Data Engineering
-- **Big Data Technologies**: Hadoop, Apache Spark
-- **Database Management**: MySQL, SAP HANA
-- **Data Warehousing Tools**: SAP BO Data Services, SAP HANA
-- **Languages**: Python, Java, SQL
+### Data Integration Specialist
+![SAP BO Data Services](https://img.shields.io/badge/-SAP%20BO%20Data%20Services-0F4C81?style=flat&logo=SAP&logoColor=white)
+![SAP Information Steward](https://img.shields.io/badge/-SAP%20Information%20Steward-0F4C81?style=flat&logo=SAP&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![SAP HANA](https://img.shields.io/badge/-SAPHANA-0F4C81?style=flat&logo=SAP&logoColor=white)
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=Apache-Hadoop&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-ApacheSpark-E25A1C?style=flat&logo=Apache-Spark&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL&logoColor=white)
 
-### Software Development
-- **Languages**: Python, Java, HTML
-- **Version Control**: Git
-- **Project Management**: Agile WoW, Jira, Kanban
+### Business Intelligence Analyst / Developer
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/-Looker-FF6B6B?style=flat)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black)
+![SAP BO Data Services](https://img.shields.io/badge/-SAP%20BO%20Data%20Services-0F4C81?style=flat&logo=SAP&logoColor=white)
+![SAP HANA](https://img.shields.io/badge/-SAPHANA-0F4C81?style=flat&logo=SAP&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL&logoColor=white)
 
-### Database Management
-- **Languages**: SQL
-- **Database Systems**: MySQL, SAP HANA, MongoDB
-- **Data Warehousing Tools**: SAP BO Data Services, SAP HANA
-
-### Business Intelligence Tools
-- **Data Visualization Tools**: Tableau, Looker, Power BI
-- **ETL Tools**: SAP BO Data Services
-- **Database Systems**: SAP HANA
-
-### Big Data Technologies
-- **Platforms**: Hadoop, Apache Spark
-- **Languages**: Python, Java
 
 ### Project Management & Collaboration
-- **Methodologies**: Agile WoW, Jira, Kanban, Trello, Microsoft Teams, Slack
-- **Compliance & Security**: SOX Security
-- **General-Purpose Tools**: MS Office, Excel
+![Agile](https://img.shields.io/badge/-Agile-blue?style=flat)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white)
+![Kanban](https://img.shields.io/badge/-Kanban-lightgrey?style=flat)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=Trello&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=Microsoft-Teams&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white)
+![SOX Security](https://img.shields.io/badge/-SOX%20Security-red?style=flat)
+![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=Microsoft-Office&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
 
 
 ---
 
 ## 👩‍💼 Professional Experience
 
-- **Data Analyst Intern**, University of Massachusetts President’s Office, MA, Dec 2022 - Present
-- **Data Engineer**, Tata Consultancy Services (Client – ARM), June 2020 - Dec 2021
+- **Data Analyst / Data Scientist**, Internship, University of Massachusetts President’s Office, MA, Dec 2022 - Dec 2023
+    <br/>Led initiatives for machine learning models, improved decision-making, and operational expenses reduction.
+- **Data Engineer**, Tata Consultancy Services (Client – ARM), Jun 2020 - Dec 2021
+    <br/>Designed data integration solutions, maintained data pipelines, and optimized data models in SAP HANA.
 - **Data Integration Specialist & Data Analyst**, Tata Consultancy Services (Client – Ericsson), Feb 2017 – June 2020
+    <br/>Excelled in data extraction, transformation, and loading; implemented sophisticated SQL queries and data visualizations.
 
-*[View more on my experiences and responsibilities](https://www.linkedin.com/in/pratheeksha-nath/)*
+*[Linkedin Profile](https://www.linkedin.com/in/pratheeksha-nath/)*
 
 ---
 
 ## 🎓 Education
 
-- **Master’s in Computer Science**, University of Massachusetts Lowell, MA | **GPA: 3.9/4**
-- **Bachelor of Technology**, Jawaharlal Nehru Technological University, Hyderabad, India | **GPA: 73.15%**
+- **Master’s in Computer Science**, University of Massachusetts Lowell | **GPA: 3.9/4**
+- **Bachelor of Technology**, Jawaharlal Nehru Technological University | **GPA: 73.15%**
 
 ---
 
