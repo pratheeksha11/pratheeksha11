@@ -30,6 +30,7 @@ I am a seasoned data professional. Over the course of 5 years, I've worn multipl
 ## 🛠 Skills
 
 ### Data Scientist
+<!--
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
@@ -49,9 +50,29 @@ I am a seasoned data professional. Over the course of 5 years, I've worn multipl
 ![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat&logo=spaCy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=Google-Colab&logoColor=white)
-
+-->
+<a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Matplotlib-FFD43B?style=flat&logo=Python&logoColor=black" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Seaborn-lightgrey" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-XGBoost-29A8AB?style=flat" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-LightGBM-green" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-NLTK-065535?style=flat" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-spaCy-09A3D5?style=flat&logo=spaCy&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=Google-Colab&logoColor=white" height="30"></a>
 
 ### Data Analyst
+<!--
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL&logoColor=white)
@@ -63,8 +84,21 @@ I am a seasoned data professional. Over the course of 5 years, I've worn multipl
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![SAP HANA](https://img.shields.io/badge/-SAPHANA-0F4C81?style=flat&logo=SAP&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-ApacheSpark-E25A1C?style=flat&logo=Apache-Spark&logoColor=white)
+-->
+<a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Looker-FF6B6B?style=flat" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-SAP%20HANA-0F4C81?style=flat&logo=SAP&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=Apache-Spark&logoColor=white" height="30"></a>
 
 ### Data Engineer
+<!--
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=Apache-Hadoop&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-ApacheSpark-E25A1C?style=flat&logo=Apache-Spark&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
@@ -73,8 +107,18 @@ I am a seasoned data professional. Over the course of 5 years, I've worn multipl
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL&logoColor=white)
+-->
+<a href="#"><img src="https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=Apache-Hadoop&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=Apache-Spark&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-SAP%20HANA-0F4C81?style=flat&logo=SAP&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-SAP%20BO%20Data%20Services-0F4C81?style=flat&logo=SAP&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL&logoColor=white" height="30"></a>
 
 ### Data Integration Specialist
+<!--
 ![SAP BO Data Services](https://img.shields.io/badge/-SAP%20BO%20Data%20Services-0F4C81?style=flat&logo=SAP&logoColor=white)
 ![SAP Information Steward](https://img.shields.io/badge/-SAP%20Information%20Steward-0F4C81?style=flat&logo=SAP&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
@@ -84,17 +128,36 @@ I am a seasoned data professional. Over the course of 5 years, I've worn multipl
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL&logoColor=white)
+-->
+<a href="#"><img src="https://img.shields.io/badge/-SAP%20BO%20Data%20Services-0F4C81?style=flat&logo=SAP&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-SAP%20Information%20Steward-0F4C81?style=flat&logo=SAP&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-SAP%20HANA-0F4C81?style=flat&logo=SAP&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=Apache-Hadoop&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=Apache-Spark&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL&logoColor=white" height="30"></a>
 
 ### Business Intelligence Analyst / Developer
+<!--
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 ![Looker](https://img.shields.io/badge/-Looker-FF6B6B?style=flat)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black)
 ![SAP BO Data Services](https://img.shields.io/badge/-SAP%20BO%20Data%20Services-0F4C81?style=flat&logo=SAP&logoColor=white)
 ![SAP HANA](https://img.shields.io/badge/-SAPHANA-0F4C81?style=flat&logo=SAP&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL&logoColor=white)
+-->
+<a href="#"><img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Looker-FF6B6B?style=flat" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-SAP%20BO%20Data%20Services-0F4C81?style=flat&logo=SAP&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-SAPHANA-0F4C81?style=flat&logo=SAP&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-SQL-336791?style=flat&logo=MySQL&logoColor=white" height="30"></a>
 
 
 ### Project Management & Collaboration
+<!--
 ![Agile](https://img.shields.io/badge/-Agile-blue?style=flat)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white)
 ![Kanban](https://img.shields.io/badge/-Kanban-lightgrey?style=flat)
@@ -104,6 +167,16 @@ I am a seasoned data professional. Over the course of 5 years, I've worn multipl
 ![SOX Security](https://img.shields.io/badge/-SOX%20Security-red?style=flat)
 ![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=Microsoft-Office&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
+-->
+<a href="#"><img src="https://img.shields.io/badge/-Agile-blue?style=flat" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Kanban-lightgrey?style=flat" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=Trello&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=Microsoft-Teams&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-SOX%20Security-red?style=flat" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=Microsoft-Office&logoColor=white" height="30"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white" height="30"></a>
 
 
 ---
@@ -145,7 +218,7 @@ I am a seasoned data professional. Over the course of 5 years, I've worn multipl
 - **Language Translator Telegram Bot**
   This is an innovative project that seamlessly integrates the robust capabilities of the Microsoft Translator API into a user-friendly Telegram bot. This bot is designed to provide real-time language translations directly within the popular messaging platform, Telegram. Users can effortlessly send text messages in their native tongue, and the bot instantly responds with accurate translations in the desired target language. 
   
-
+[Check out my projects](https://github.com/pratheeksha11?tab=repositories)
 
 
 ---
