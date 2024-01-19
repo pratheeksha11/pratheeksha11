@@ -1,6 +1,16 @@
 # Pratheeksha Nath Narikkadan
 
-📍 **MA, USA** | 📧 **[pratheeksha.nath@gmail.com](mailto:pratheeksha.nath@gmail.com)** | 📞 **857-972-3001** | 🔗 **[LinkedIn](https://www.linkedin.com/in/pratheeksha-nath/)** | 🔗 **[GitHub](https://github.com/pratheeksha11)** | 🔗 **[Tableau Public](https://public.tableau.com/app/profile/pratheeksha.nath)** 
+📍 **MA, USA** | 📧 **[pratheeksha.nath@gmail.com](mailto:pratheeksha.nath@gmail.com)** | 📞 **857-972-3001** 
+
+<!--🔗 **[LinkedIn](https://www.linkedin.com/in/pratheeksha-nath/)** | 🔗 **[GitHub](https://github.com/pratheeksha11)** | 🔗 **[Tableau Public](https://public.tableau.com/app/profile/pratheeksha.nath)** 
+-->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratheeksha-nath/)
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/profile/pratheeksha.nath)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratheeksha11)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pratheekshanath)
+
+
 
 ![ViewCount](https://views.whatilearened.today/views/github/pratheeksha11/pratheeksha11.svg?cache=remove)
 ---
