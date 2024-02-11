@@ -18,8 +18,12 @@
 
 - *[Check out more of my projects on GitHub!](https://github.com/pratheeksha11?tab=repositories)*
 - *[Check out my learning blog here - Data Wisdom: My Learning Journey of Data & Technology](https://github.com/pratheeksha11/DataWisdom)*
-- *[Check out the certificates I've earned from courses and trainings](https://github.com/pratheeksha11/myCertifications/tree/main)*
+
 ---
+
+<!--
+- *[Check out the certificates I've earned from courses and trainings](https://github.com/pratheeksha11/myCertifications/tree/main)*
+--> 
 
 ## 💼 Professional Summary
 
