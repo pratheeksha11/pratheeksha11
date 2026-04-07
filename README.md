@@ -1,6 +1,6 @@
 # Pratheeksha Nath Narikkadan
 
-📍 **MA, USA** | 📧 **[pratheeksha.nath@gmail.com](mailto:pratheeksha.nath@gmail.com)** | 📞 **857-972-3001** 
+📍 **MA, USA** | 📧 **[pratheeksha.nath@gmail.com](mailto:pratheeksha.nath@gmail.com)** 
 
 <!--🔗 **[LinkedIn](https://www.linkedin.com/in/pratheeksha-nath/)** | 🔗 **[GitHub](https://github.com/pratheeksha11)** | 🔗 **[Tableau Public](https://public.tableau.com/app/profile/pratheeksha.nath)** 
 -->
